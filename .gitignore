@@ -1,0 +1,12 @@
+# Xcode build files
+DerivedData/
+Build/
+
+# Xcode user settings
+*.xcuserdatad/
+
+# Xcode project files
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+
